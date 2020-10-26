@@ -24,6 +24,9 @@ And add JCenter resolver to the project where `AkkaParadoxPlugin` is enabled. Th
 resolvers += Resolver.jcenterRepo
 ```
 
+test
+
+
 For more settings refer to the [Paradox documentation](https://developer.lightbend.com/docs/paradox/latest/)
 
 ## Testing
